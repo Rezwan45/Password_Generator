@@ -78,7 +78,3 @@ Your password is: 1z%y9&X!Ab
 - Add options for different password lengths with a single input.
 - Implement a GUI for better user experience.
 - Save generated passwords securely for future use.
-
-s
-
-- Thanks to the Python community for inspiring secure coding practices!
